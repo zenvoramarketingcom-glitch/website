@@ -1,0 +1,8 @@
+{
+  "name": "Mangal Web",
+  "description": "Mangal Web — 3D scrolling digital agency by Mangal offering custom websites, Shopify stores, Meta Ads, and WhatsApp automation for local and global businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
